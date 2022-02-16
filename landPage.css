@@ -1,0 +1,22 @@
+#container{
+    border: 3px solid black;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    
+}
+#componentsList{
+    border: 2px solid black;
+    margin: 4rem;
+    
+}
+.sublist{
+    list-style: none;
+}
+.flexList{
+    font-size: larger;
+    font-weight: bold;
+}
+.link{
+text-decoration: none;
+}
